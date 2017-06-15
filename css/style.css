@@ -1,3 +1,17 @@
 .result{
   display: none;
 }
+#warning{
+  display: none;
+}
+#warning .warning-wrapper{
+  display: table-cell;
+  text-align: center;
+  height:200px;
+  background-color: red;
+  vertical-align: middle;
+  color: white;
+}
+#transactions{
+  display: none;
+}
